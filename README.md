@@ -1,5 +1,5 @@
 
-Last updated: 2023-05-25
+Last updated: 2023-05-24
 
 This is an Application made in Kotlin using the mvvm architecture, with the following list of technologies used:
 
