@@ -14,7 +14,7 @@ This is an Application made in Kotlin using the mvvm architecture, with the foll
 Download the zip file on this page or clone the project via SSH key using the following command on your terminal, in the location of your preference:
 
 ```bash
-git clone git@github.com:ArturoMarmolejo/CountryListAppAMM.git
+git clone git@github.com:ArturoMarmolejo/CountryListAppAM.git
 ```
 
 ## Usage
