@@ -19,7 +19,7 @@ git clone git@github.com:ArturoMarmolejo/CountryListAppAMM.git
 
 ## Usage
 
-Open the Project using Android Studio, and run the App on the emulator of your preference. Afterwards, you will be prompted to a screen with a single text field for searching. Type any country name you would like to search, and type enter, or click on the magnifying key of the device keyboard - only then, the network call will be made and the results will be retrieved from the API database.
+Open the Project using Android Studio, and run the App on the emulator of your preference. Afterwards, you will be prompted to a screen with a single text field for searching. Type any country name you would like to search, and type enter, or click on the magnifying key of the device keyboard, and a list of existing elements that match the query will be displayed.
 
 The App is fully compatible with night mode.
 
